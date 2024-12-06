@@ -89,7 +89,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:inputType="textPersonName"
-                        android:hint="Student Name"
+                        android:hint="Student"
                         android:drawablePadding="8dp"
                         android:textColor="@color/black" />
                 </com.google.android.material.textfield.TextInputLayout>
@@ -137,7 +137,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:inputType="textEmailAddress"
-                        android:hint="Student Email"
+                        android:hint="Email"
                         android:drawablePadding="8dp"
                         android:textColor="@color/black" />
                 </com.google.android.material.textfield.TextInputLayout>

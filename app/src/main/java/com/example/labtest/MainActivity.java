@@ -1,16 +1,18 @@
 package com.example.labtest;
 
-import androidx.appcompat.R;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
+import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
-import android.widget.LinearLayout;
 import android.widget.RadioGroup;
-import android.widget.TextView;
+import android.widget.Toast;
+import com.example.labtest.R;
 
 public class MainActivity extends AppCompatActivity {
 
